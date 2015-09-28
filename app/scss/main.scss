@@ -19,3 +19,14 @@ body {
   color: $base-font-color;
   font-family: $base-font-family;
 }
+li{
+  list-style: none;
+}
+
+.likes{
+  width: 250px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  left: 400px;
+}
